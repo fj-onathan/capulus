@@ -1,0 +1,10 @@
+# Documentations files
+.idea/
+.git/
+
+# Modules
+vendor
+
+# Runtime files
+runtime/logs/
+tmp/runner-build.exe
